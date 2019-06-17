@@ -1,5 +1,4 @@
 # 项目说明
-Android Studio 通过JDBC连接Mysql数据库实现增删改查
 
 1.Android Studio 通过JDBC连接Mysql数据库实现增删改查
 
